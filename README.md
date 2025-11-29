@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **MSC DATASCIENCE**
 
 - 📫Reach me at **aseemta0405@gmail.com**
+-🔗 **My Portfolio:**  - https://aseemtaportfolio.netlify.app
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
